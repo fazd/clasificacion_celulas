@@ -2,204 +2,238 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a6f9784-e22b-444a-8190-d8d297009041" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/anafase/imagen10.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/anafase/imagen15.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/anafase/imagen16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/anafase/imagen22.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/anafase/imagen24.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/anafase/imagen3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/anafase/imagen30.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/anafase/imagen32.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/anafase/imagen33.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/anafase/imagen51.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/anafase/imagen56.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/anafase/imagen61.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/anafase/imagen63.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/anafase/imagen69.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/anafase/imagen71.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/anafase/imagen73.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/anafase/imagen74.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/anafase/imagen81.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/anafase/imagen82.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/anafase/imagen86.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/anafase/imagen91.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/anafase/imagen93.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/anafase/imagen94.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/anafase/imagen95.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/buenas/imagen73.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/buenas/imagen85.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/buenas/imagen86.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/buenas/imagen87.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/buenas/imagen91.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/buenas/imagen93.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/buenas/imagen94.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/buenas/imagen95.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/buenas/imagen96.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/buenas/imagen97.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/byw/imagen73.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/byw/imagen85.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/byw/imagen86.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/byw/imagen87.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/byw/imagen91.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/byw/imagen93.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/byw/imagen94.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/byw/imagen95.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/byw/imagen96.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/byw/imagen97.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gris/imagen83.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gris/imagen84.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gris/imagen85.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gris/imagen86.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gris/imagen87.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gris/imagen88.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gris/imagen89.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gris/imagen90.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gris/imagen91.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gris/imagen92.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gris/imagen93.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gris/imagen94.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gris/imagen95.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gris/imagen96.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gris/imagen97.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gris/imagen98.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/malas/imagen11.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/malas/imagen14.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/malas/imagen18.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/malas/imagen19.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/malas/imagen20.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/malas/imagen21.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/malas/imagen25.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/malas/imagen27.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/malas/imagen29.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/malas/imagen34.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/malas/imagen36.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/malas/imagen37.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/malas/imagen38.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/malas/imagen39.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/malas/imagen4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/malas/imagen40.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/malas/imagen41.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/malas/imagen43.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/malas/imagen44.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/malas/imagen45.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/malas/imagen46.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/malas/imagen47.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/malas/imagen48.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/malas/imagen50.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/malas/imagen52.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/malas/imagen55.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/malas/imagen57.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/malas/imagen59.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/malas/imagen62.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/malas/imagen64.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/malas/imagen65.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/malas/imagen7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/malas/imagen70.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/malas/imagen77.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/malas/imagen8.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/malas/imagen83.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/malas/imagen84.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/malas/imagen88.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/malas/imagen89.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/malas/imagen9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/malas/imagen90.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/malas/imagen92.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/malas/imagen98.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/telofase/imagen31.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/telofase/imagen76.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/anafase/imagen72.png" afterPath="$PROJECT_DIR$/anafase/imagen72.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/anafase/imagen75.png" afterPath="$PROJECT_DIR$/anafase/imagen75.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/anafase/imagen78.png" afterPath="$PROJECT_DIR$/anafase/imagen78.png" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/anafase/imagen64.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/anafase/imagen72.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/anafase/imagen75.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/anafase/imagen78.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/anafase/imagen79.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/malas/imagen73.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/metafase/imagen23.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/metafase/imagen24.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/metafase/imagen25.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/metafase/imagen29.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/metafase/imagen30.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/metafase/imagen34.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/metafase/imagen35.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/metafase/imagen36.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/metafase/imagen38.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/metafase/imagen39.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/metafase/imagen44.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/metafase/imagen46.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/metafase/imagen49.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/metafase/imagen52.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/metafase/imagen54.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/metafase/imagen61.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/metafase/imagen62.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/metafase/imagen67.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/metafase/imagen69.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/metafase/imagen70.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/profase/imagen1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/profase/imagen10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/profase/imagen11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/profase/imagen12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/profase/imagen13.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/profase/imagen15.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/profase/imagen16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/profase/imagen17.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/profase/imagen18.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/profase/imagen19.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/profase/imagen2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/profase/imagen20.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/profase/imagen26.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/profase/imagen27.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/profase/imagen28.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/profase/imagen3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/profase/imagen31.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/profase/imagen32.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/profase/imagen33.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/profase/imagen40.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/profase/imagen42.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/profase/imagen47.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/profase/imagen48.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/profase/imagen5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/profase/imagen51.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/profase/imagen56.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/profase/imagen57.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/profase/imagen58.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/profase/imagen59.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/profase/imagen6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/profase/imagen60.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/profase/imagen63.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/profase/imagen66.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/profase/imagen7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/profase/imagen71.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/profase/imagen74.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/profase/imagen76.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/profase/imagen8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/profase/imagen82.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/profase/imagen9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sin_clasificar/imagen50.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/telofase/imagen21.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/telofase/imagen4.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/anafase/imagen77.png" afterPath="$PROJECT_DIR$/anafase/imagen77.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/buenas/imagen1.png" afterPath="$PROJECT_DIR$/buenas/imagen1.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/buenas/imagen10.png" afterPath="$PROJECT_DIR$/buenas/imagen10.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/buenas/imagen11.png" afterPath="$PROJECT_DIR$/buenas/imagen11.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/buenas/imagen12.png" afterPath="$PROJECT_DIR$/buenas/imagen12.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/buenas/imagen13.png" afterPath="$PROJECT_DIR$/buenas/imagen13.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/buenas/imagen14.png" afterPath="$PROJECT_DIR$/buenas/imagen14.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/buenas/imagen15.png" afterPath="$PROJECT_DIR$/buenas/imagen15.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/buenas/imagen16.png" afterPath="$PROJECT_DIR$/buenas/imagen16.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/buenas/imagen17.png" afterPath="$PROJECT_DIR$/buenas/imagen17.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/buenas/imagen18.png" afterPath="$PROJECT_DIR$/buenas/imagen18.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/buenas/imagen19.png" afterPath="$PROJECT_DIR$/buenas/imagen19.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/buenas/imagen2.png" afterPath="$PROJECT_DIR$/buenas/imagen2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/buenas/imagen20.png" afterPath="$PROJECT_DIR$/buenas/imagen20.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/buenas/imagen21.png" afterPath="$PROJECT_DIR$/buenas/imagen21.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/buenas/imagen22.png" afterPath="$PROJECT_DIR$/buenas/imagen22.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/buenas/imagen23.png" afterPath="$PROJECT_DIR$/buenas/imagen23.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/buenas/imagen24.png" afterPath="$PROJECT_DIR$/buenas/imagen24.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/buenas/imagen25.png" afterPath="$PROJECT_DIR$/buenas/imagen25.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/buenas/imagen26.png" afterPath="$PROJECT_DIR$/buenas/imagen26.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/buenas/imagen27.png" afterPath="$PROJECT_DIR$/buenas/imagen27.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/buenas/imagen28.png" afterPath="$PROJECT_DIR$/buenas/imagen28.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/buenas/imagen29.png" afterPath="$PROJECT_DIR$/buenas/imagen29.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/buenas/imagen3.png" afterPath="$PROJECT_DIR$/buenas/imagen3.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/buenas/imagen30.png" afterPath="$PROJECT_DIR$/buenas/imagen30.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/buenas/imagen31.png" afterPath="$PROJECT_DIR$/buenas/imagen31.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/buenas/imagen32.png" afterPath="$PROJECT_DIR$/buenas/imagen32.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/buenas/imagen33.png" afterPath="$PROJECT_DIR$/buenas/imagen33.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/buenas/imagen34.png" afterPath="$PROJECT_DIR$/buenas/imagen34.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/buenas/imagen35.png" afterPath="$PROJECT_DIR$/buenas/imagen35.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/buenas/imagen36.png" afterPath="$PROJECT_DIR$/buenas/imagen36.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/buenas/imagen37.png" afterPath="$PROJECT_DIR$/buenas/imagen37.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/buenas/imagen38.png" afterPath="$PROJECT_DIR$/buenas/imagen38.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/buenas/imagen39.png" afterPath="$PROJECT_DIR$/buenas/imagen39.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/buenas/imagen4.png" afterPath="$PROJECT_DIR$/buenas/imagen4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/buenas/imagen40.png" afterPath="$PROJECT_DIR$/buenas/imagen40.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/buenas/imagen41.png" afterPath="$PROJECT_DIR$/buenas/imagen41.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/buenas/imagen42.png" afterPath="$PROJECT_DIR$/buenas/imagen42.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/buenas/imagen43.png" afterPath="$PROJECT_DIR$/buenas/imagen43.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/buenas/imagen44.png" afterPath="$PROJECT_DIR$/buenas/imagen44.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/buenas/imagen45.png" afterPath="$PROJECT_DIR$/buenas/imagen45.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/buenas/imagen46.png" afterPath="$PROJECT_DIR$/buenas/imagen46.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/buenas/imagen47.png" afterPath="$PROJECT_DIR$/buenas/imagen47.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/buenas/imagen48.png" afterPath="$PROJECT_DIR$/buenas/imagen48.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/buenas/imagen49.png" afterPath="$PROJECT_DIR$/buenas/imagen49.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/buenas/imagen5.png" afterPath="$PROJECT_DIR$/buenas/imagen5.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/buenas/imagen50.png" afterPath="$PROJECT_DIR$/buenas/imagen50.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/buenas/imagen51.png" afterPath="$PROJECT_DIR$/buenas/imagen51.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/buenas/imagen52.png" afterPath="$PROJECT_DIR$/buenas/imagen52.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/buenas/imagen53.png" afterPath="$PROJECT_DIR$/buenas/imagen53.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/buenas/imagen54.png" afterPath="$PROJECT_DIR$/buenas/imagen54.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/buenas/imagen55.png" afterPath="$PROJECT_DIR$/buenas/imagen55.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/buenas/imagen56.png" afterPath="$PROJECT_DIR$/buenas/imagen56.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/buenas/imagen57.png" afterPath="$PROJECT_DIR$/buenas/imagen57.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/buenas/imagen58.png" afterPath="$PROJECT_DIR$/buenas/imagen58.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/buenas/imagen59.png" afterPath="$PROJECT_DIR$/buenas/imagen59.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/buenas/imagen6.png" afterPath="$PROJECT_DIR$/buenas/imagen6.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/buenas/imagen60.png" afterPath="$PROJECT_DIR$/buenas/imagen60.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/buenas/imagen61.png" afterPath="$PROJECT_DIR$/buenas/imagen61.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/buenas/imagen62.png" afterPath="$PROJECT_DIR$/buenas/imagen62.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/buenas/imagen63.png" afterPath="$PROJECT_DIR$/buenas/imagen63.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/buenas/imagen64.png" afterPath="$PROJECT_DIR$/buenas/imagen64.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/buenas/imagen65.png" afterPath="$PROJECT_DIR$/buenas/imagen65.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/buenas/imagen66.png" afterPath="$PROJECT_DIR$/buenas/imagen66.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/buenas/imagen67.png" afterPath="$PROJECT_DIR$/buenas/imagen67.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/buenas/imagen68.png" afterPath="$PROJECT_DIR$/buenas/imagen68.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/buenas/imagen69.png" afterPath="$PROJECT_DIR$/buenas/imagen69.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/buenas/imagen7.png" afterPath="$PROJECT_DIR$/buenas/imagen7.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/buenas/imagen70.png" afterPath="$PROJECT_DIR$/buenas/imagen70.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/buenas/imagen71.png" afterPath="$PROJECT_DIR$/buenas/imagen71.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/buenas/imagen72.png" afterPath="$PROJECT_DIR$/buenas/imagen72.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/buenas/imagen74.png" afterPath="$PROJECT_DIR$/buenas/imagen74.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/buenas/imagen75.png" afterPath="$PROJECT_DIR$/buenas/imagen75.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/buenas/imagen76.png" afterPath="$PROJECT_DIR$/buenas/imagen76.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/buenas/imagen77.png" afterPath="$PROJECT_DIR$/buenas/imagen77.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/buenas/imagen78.png" afterPath="$PROJECT_DIR$/buenas/imagen78.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/buenas/imagen79.png" afterPath="$PROJECT_DIR$/buenas/imagen79.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/buenas/imagen8.png" afterPath="$PROJECT_DIR$/buenas/imagen8.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/buenas/imagen80.png" afterPath="$PROJECT_DIR$/buenas/imagen80.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/buenas/imagen81.png" afterPath="$PROJECT_DIR$/buenas/imagen81.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/buenas/imagen82.png" afterPath="$PROJECT_DIR$/buenas/imagen82.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/buenas/imagen9.png" afterPath="$PROJECT_DIR$/buenas/imagen9.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/byw/imagen1.png" afterPath="$PROJECT_DIR$/byw/imagen1.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/byw/imagen10.png" afterPath="$PROJECT_DIR$/byw/imagen10.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/byw/imagen11.png" afterPath="$PROJECT_DIR$/byw/imagen11.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/byw/imagen12.png" afterPath="$PROJECT_DIR$/byw/imagen12.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/byw/imagen13.png" afterPath="$PROJECT_DIR$/byw/imagen13.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/byw/imagen14.png" afterPath="$PROJECT_DIR$/byw/imagen14.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/byw/imagen15.png" afterPath="$PROJECT_DIR$/byw/imagen15.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/byw/imagen16.png" afterPath="$PROJECT_DIR$/byw/imagen16.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/byw/imagen17.png" afterPath="$PROJECT_DIR$/byw/imagen17.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/byw/imagen18.png" afterPath="$PROJECT_DIR$/byw/imagen18.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/byw/imagen19.png" afterPath="$PROJECT_DIR$/byw/imagen19.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/byw/imagen2.png" afterPath="$PROJECT_DIR$/byw/imagen2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/byw/imagen20.png" afterPath="$PROJECT_DIR$/byw/imagen20.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/byw/imagen21.png" afterPath="$PROJECT_DIR$/byw/imagen21.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/byw/imagen22.png" afterPath="$PROJECT_DIR$/byw/imagen22.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/byw/imagen23.png" afterPath="$PROJECT_DIR$/byw/imagen23.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/byw/imagen24.png" afterPath="$PROJECT_DIR$/byw/imagen24.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/byw/imagen25.png" afterPath="$PROJECT_DIR$/byw/imagen25.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/byw/imagen26.png" afterPath="$PROJECT_DIR$/byw/imagen26.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/byw/imagen27.png" afterPath="$PROJECT_DIR$/byw/imagen27.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/byw/imagen28.png" afterPath="$PROJECT_DIR$/byw/imagen28.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/byw/imagen29.png" afterPath="$PROJECT_DIR$/byw/imagen29.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/byw/imagen3.png" afterPath="$PROJECT_DIR$/byw/imagen3.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/byw/imagen30.png" afterPath="$PROJECT_DIR$/byw/imagen30.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/byw/imagen31.png" afterPath="$PROJECT_DIR$/byw/imagen31.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/byw/imagen32.png" afterPath="$PROJECT_DIR$/byw/imagen32.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/byw/imagen33.png" afterPath="$PROJECT_DIR$/byw/imagen33.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/byw/imagen34.png" afterPath="$PROJECT_DIR$/byw/imagen34.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/byw/imagen35.png" afterPath="$PROJECT_DIR$/byw/imagen35.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/byw/imagen36.png" afterPath="$PROJECT_DIR$/byw/imagen36.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/byw/imagen37.png" afterPath="$PROJECT_DIR$/byw/imagen37.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/byw/imagen38.png" afterPath="$PROJECT_DIR$/byw/imagen38.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/byw/imagen39.png" afterPath="$PROJECT_DIR$/byw/imagen39.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/byw/imagen4.png" afterPath="$PROJECT_DIR$/byw/imagen4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/byw/imagen40.png" afterPath="$PROJECT_DIR$/byw/imagen40.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/byw/imagen41.png" afterPath="$PROJECT_DIR$/byw/imagen41.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/byw/imagen42.png" afterPath="$PROJECT_DIR$/byw/imagen42.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/byw/imagen43.png" afterPath="$PROJECT_DIR$/byw/imagen43.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/byw/imagen44.png" afterPath="$PROJECT_DIR$/byw/imagen44.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/byw/imagen45.png" afterPath="$PROJECT_DIR$/byw/imagen45.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/byw/imagen46.png" afterPath="$PROJECT_DIR$/byw/imagen46.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/byw/imagen47.png" afterPath="$PROJECT_DIR$/byw/imagen47.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/byw/imagen48.png" afterPath="$PROJECT_DIR$/byw/imagen48.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/byw/imagen49.png" afterPath="$PROJECT_DIR$/byw/imagen49.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/byw/imagen5.png" afterPath="$PROJECT_DIR$/byw/imagen5.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/byw/imagen50.png" afterPath="$PROJECT_DIR$/byw/imagen50.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/byw/imagen51.png" afterPath="$PROJECT_DIR$/byw/imagen51.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/byw/imagen52.png" afterPath="$PROJECT_DIR$/byw/imagen52.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/byw/imagen53.png" afterPath="$PROJECT_DIR$/byw/imagen53.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/byw/imagen54.png" afterPath="$PROJECT_DIR$/byw/imagen54.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/byw/imagen55.png" afterPath="$PROJECT_DIR$/byw/imagen55.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/byw/imagen56.png" afterPath="$PROJECT_DIR$/byw/imagen56.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/byw/imagen57.png" afterPath="$PROJECT_DIR$/byw/imagen57.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/byw/imagen58.png" afterPath="$PROJECT_DIR$/byw/imagen58.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/byw/imagen59.png" afterPath="$PROJECT_DIR$/byw/imagen59.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/byw/imagen6.png" afterPath="$PROJECT_DIR$/byw/imagen6.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/byw/imagen60.png" afterPath="$PROJECT_DIR$/byw/imagen60.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/byw/imagen61.png" afterPath="$PROJECT_DIR$/byw/imagen61.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/byw/imagen62.png" afterPath="$PROJECT_DIR$/byw/imagen62.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/byw/imagen63.png" afterPath="$PROJECT_DIR$/byw/imagen63.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/byw/imagen64.png" afterPath="$PROJECT_DIR$/byw/imagen64.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/byw/imagen65.png" afterPath="$PROJECT_DIR$/byw/imagen65.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/byw/imagen66.png" afterPath="$PROJECT_DIR$/byw/imagen66.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/byw/imagen67.png" afterPath="$PROJECT_DIR$/byw/imagen67.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/byw/imagen68.png" afterPath="$PROJECT_DIR$/byw/imagen68.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/byw/imagen69.png" afterPath="$PROJECT_DIR$/byw/imagen69.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/byw/imagen7.png" afterPath="$PROJECT_DIR$/byw/imagen7.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/byw/imagen70.png" afterPath="$PROJECT_DIR$/byw/imagen70.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/byw/imagen71.png" afterPath="$PROJECT_DIR$/byw/imagen71.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/byw/imagen72.png" afterPath="$PROJECT_DIR$/byw/imagen72.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/byw/imagen74.png" afterPath="$PROJECT_DIR$/byw/imagen74.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/byw/imagen75.png" afterPath="$PROJECT_DIR$/byw/imagen75.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/byw/imagen76.png" afterPath="$PROJECT_DIR$/byw/imagen76.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/byw/imagen77.png" afterPath="$PROJECT_DIR$/byw/imagen77.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/byw/imagen78.png" afterPath="$PROJECT_DIR$/byw/imagen78.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/byw/imagen79.png" afterPath="$PROJECT_DIR$/byw/imagen79.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/byw/imagen8.png" afterPath="$PROJECT_DIR$/byw/imagen8.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/byw/imagen80.png" afterPath="$PROJECT_DIR$/byw/imagen80.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/byw/imagen81.png" afterPath="$PROJECT_DIR$/byw/imagen81.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/byw/imagen82.png" afterPath="$PROJECT_DIR$/byw/imagen82.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/byw/imagen9.png" afterPath="$PROJECT_DIR$/byw/imagen9.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gris/imagen1.png" afterPath="$PROJECT_DIR$/gris/imagen1.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gris/imagen10.png" afterPath="$PROJECT_DIR$/gris/imagen10.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gris/imagen11.png" afterPath="$PROJECT_DIR$/gris/imagen11.png" />
@@ -282,6 +316,18 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gris/imagen81.png" afterPath="$PROJECT_DIR$/gris/imagen81.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gris/imagen82.png" afterPath="$PROJECT_DIR$/gris/imagen82.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gris/imagen9.png" afterPath="$PROJECT_DIR$/gris/imagen9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metafase/imagen14.png" afterPath="$PROJECT_DIR$/metafase/imagen14.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metafase/imagen22.png" afterPath="$PROJECT_DIR$/metafase/imagen22.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metafase/imagen37.png" afterPath="$PROJECT_DIR$/metafase/imagen37.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metafase/imagen45.png" afterPath="$PROJECT_DIR$/metafase/imagen45.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metafase/imagen53.png" afterPath="$PROJECT_DIR$/metafase/imagen53.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metafase/imagen55.png" afterPath="$PROJECT_DIR$/metafase/imagen55.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/metafase/imagen68.png" afterPath="$PROJECT_DIR$/metafase/imagen68.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/profase/imagen41.png" afterPath="$PROJECT_DIR$/profase/imagen41.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/profase/imagen43.png" afterPath="$PROJECT_DIR$/profase/imagen43.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/profase/imagen80.png" afterPath="$PROJECT_DIR$/profase/imagen80.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sin_clasificar/imagen65.png" afterPath="$PROJECT_DIR$/sin_clasificar/imagen65.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sin_clasificar/imagen81.png" afterPath="$PROJECT_DIR$/sin_clasificar/imagen81.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/clasificacion_fase.py" afterPath="$PROJECT_DIR$/clasificacion_fase.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/preparacion.py" afterPath="$PROJECT_DIR$/preparacion.py" />
@@ -294,7 +340,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/untitled1$optimizado.coverage" NAME="optimizado Coverage Results" MODIFIED="1510800022182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled1$optimizado.coverage" NAME="optimizado Coverage Results" MODIFIED="1510807669903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/untitled1$prueba_2.coverage" NAME="prueba 2 Coverage Results" MODIFIED="1508905465051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/untitled1$red_neuronal.coverage" NAME="red neuronal Coverage Results" MODIFIED="1508992971026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/untitled1$tensor.coverage" NAME="tensor Coverage Results" MODIFIED="1510155706039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -306,16 +352,23 @@
       <file leaf-file-name="preparacion.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/preparacion.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="15" column="19" lean-forward="false" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="43" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
-                <element signature="e#235#290#0" expanded="false" />
-                <element signature="e#765#828#0" expanded="false" />
-                <element signature="e#1121#1150#0" expanded="false" />
-                <element signature="e#1272#1355#0" expanded="false" />
-                <element signature="e#1382#1600#0" expanded="false" />
-                <element signature="e#1627#1741#0" expanded="false" />
+                <element signature="e#510#567#0" expanded="false" />
+                <element signature="e#597#1009#0" expanded="false" />
+                <element signature="e#1051#1114#0" expanded="false" />
+                <element signature="e#1162#1393#0" expanded="false" />
+                <element signature="e#1422#1451#0" expanded="false" />
+                <element signature="e#1489#1553#0" expanded="false" />
+                <element signature="e#1576#1659#0" expanded="false" />
+                <element signature="e#1687#1918#0" expanded="false" />
+                <element signature="e#1946#2060#0" expanded="false" />
+                <element signature="e#2102#2601#0" expanded="false" />
+                <element signature="e#2636#2841#0" expanded="false" />
+                <element signature="e#2878#3258#0" expanded="false" />
+                <element signature="e#3296#3593#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -324,20 +377,22 @@
       <file leaf-file-name="clasificacion_fase.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/clasificacion_fase.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="423">
-              <caret line="153" column="17" lean-forward="false" selection-start-line="153" selection-start-column="17" selection-end-line="153" selection-end-column="17" />
+            <state relative-caret-position="90">
+              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
-                <element signature="e#150#264#0" expanded="false" />
-                <element signature="e#309#390#0" expanded="false" />
-                <element signature="e#425#516#0" expanded="false" />
-                <element signature="e#547#580#0" expanded="false" />
-                <element signature="e#614#646#0" expanded="false" />
-                <element signature="e#680#867#0" expanded="false" />
-                <element signature="e#901#1151#0" expanded="false" />
-                <element signature="e#1185#1450#0" expanded="false" />
-                <element signature="e#1494#1741#0" expanded="false" />
-                <element signature="e#1791#3050#0" expanded="false" />
+                <element signature="e#154#276#0" expanded="false" />
+                <element signature="e#322#403#0" expanded="false" />
+                <element signature="e#438#529#0" expanded="false" />
+                <element signature="e#560#593#0" expanded="false" />
+                <element signature="e#627#659#0" expanded="false" />
+                <element signature="e#693#882#0" expanded="false" />
+                <element signature="e#916#1181#0" expanded="false" />
+                <element signature="e#1215#1478#0" expanded="false" />
+                <element signature="e#1522#1782#0" expanded="false" />
+                <element signature="e#1832#3090#0" expanded="false" />
+                <element signature="e#3129#3846#0" expanded="false" />
+                <element signature="e#3881#4667#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -595,7 +650,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4234234" sideWeight="0.4941435" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33333334" sideWeight="0.4941435" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -618,7 +673,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="7" />
+      <option name="time" value="9" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -631,12 +686,19 @@
           <caret line="158" column="49" lean-forward="false" selection-start-line="158" selection-start-column="49" selection-end-line="158" selection-end-column="49" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
-            <element signature="e#235#290#0" expanded="false" />
-            <element signature="e#765#828#0" expanded="false" />
-            <element signature="e#1121#1150#0" expanded="false" />
-            <element signature="e#1272#1355#0" expanded="false" />
-            <element signature="e#1382#1600#0" expanded="false" />
-            <element signature="e#1627#1741#0" expanded="false" />
+            <element signature="e#510#567#0" expanded="false" />
+            <element signature="e#597#1009#0" expanded="false" />
+            <element signature="e#1051#1114#0" expanded="false" />
+            <element signature="e#1162#1393#0" expanded="false" />
+            <element signature="e#1422#1451#0" expanded="false" />
+            <element signature="e#1489#1553#0" expanded="false" />
+            <element signature="e#1576#1659#0" expanded="false" />
+            <element signature="e#1687#1918#0" expanded="false" />
+            <element signature="e#1946#2060#0" expanded="false" />
+            <element signature="e#2102#2601#0" expanded="false" />
+            <element signature="e#2636#2841#0" expanded="false" />
+            <element signature="e#2878#3258#0" expanded="false" />
+            <element signature="e#3296#3593#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -653,12 +715,19 @@
           <caret line="86" column="13" lean-forward="false" selection-start-line="86" selection-start-column="13" selection-end-line="86" selection-end-column="13" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
-            <element signature="e#235#290#0" expanded="false" />
-            <element signature="e#765#828#0" expanded="false" />
-            <element signature="e#1121#1150#0" expanded="false" />
-            <element signature="e#1272#1355#0" expanded="false" />
-            <element signature="e#1382#1600#0" expanded="false" />
-            <element signature="e#1627#1741#0" expanded="false" />
+            <element signature="e#510#567#0" expanded="false" />
+            <element signature="e#597#1009#0" expanded="false" />
+            <element signature="e#1051#1114#0" expanded="false" />
+            <element signature="e#1162#1393#0" expanded="false" />
+            <element signature="e#1422#1451#0" expanded="false" />
+            <element signature="e#1489#1553#0" expanded="false" />
+            <element signature="e#1576#1659#0" expanded="false" />
+            <element signature="e#1687#1918#0" expanded="false" />
+            <element signature="e#1946#2060#0" expanded="false" />
+            <element signature="e#2102#2601#0" expanded="false" />
+            <element signature="e#2636#2841#0" expanded="false" />
+            <element signature="e#2878#3258#0" expanded="false" />
+            <element signature="e#3296#3593#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -673,12 +742,19 @@
           <caret line="88" column="28" lean-forward="false" selection-start-line="88" selection-start-column="28" selection-end-line="88" selection-end-column="28" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
-            <element signature="e#235#290#0" expanded="false" />
-            <element signature="e#765#828#0" expanded="false" />
-            <element signature="e#1121#1150#0" expanded="false" />
-            <element signature="e#1272#1355#0" expanded="false" />
-            <element signature="e#1382#1600#0" expanded="false" />
-            <element signature="e#1627#1741#0" expanded="false" />
+            <element signature="e#510#567#0" expanded="false" />
+            <element signature="e#597#1009#0" expanded="false" />
+            <element signature="e#1051#1114#0" expanded="false" />
+            <element signature="e#1162#1393#0" expanded="false" />
+            <element signature="e#1422#1451#0" expanded="false" />
+            <element signature="e#1489#1553#0" expanded="false" />
+            <element signature="e#1576#1659#0" expanded="false" />
+            <element signature="e#1687#1918#0" expanded="false" />
+            <element signature="e#1946#2060#0" expanded="false" />
+            <element signature="e#2102#2601#0" expanded="false" />
+            <element signature="e#2636#2841#0" expanded="false" />
+            <element signature="e#2878#3258#0" expanded="false" />
+            <element signature="e#3296#3593#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -774,36 +850,45 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/clasificacion_fase.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="423">
-          <caret line="153" column="17" lean-forward="false" selection-start-line="153" selection-start-column="17" selection-end-line="153" selection-end-column="17" />
+        <state relative-caret-position="90">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
-            <element signature="e#150#264#0" expanded="false" />
-            <element signature="e#309#390#0" expanded="false" />
-            <element signature="e#425#516#0" expanded="false" />
-            <element signature="e#547#580#0" expanded="false" />
-            <element signature="e#614#646#0" expanded="false" />
-            <element signature="e#680#867#0" expanded="false" />
-            <element signature="e#901#1151#0" expanded="false" />
-            <element signature="e#1185#1450#0" expanded="false" />
-            <element signature="e#1494#1741#0" expanded="false" />
-            <element signature="e#1791#3050#0" expanded="false" />
+            <element signature="e#154#276#0" expanded="false" />
+            <element signature="e#322#403#0" expanded="false" />
+            <element signature="e#438#529#0" expanded="false" />
+            <element signature="e#560#593#0" expanded="false" />
+            <element signature="e#627#659#0" expanded="false" />
+            <element signature="e#693#882#0" expanded="false" />
+            <element signature="e#916#1181#0" expanded="false" />
+            <element signature="e#1215#1478#0" expanded="false" />
+            <element signature="e#1522#1782#0" expanded="false" />
+            <element signature="e#1832#3090#0" expanded="false" />
+            <element signature="e#3129#3846#0" expanded="false" />
+            <element signature="e#3881#4667#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/preparacion.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="15" column="19" lean-forward="false" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="43" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
-            <element signature="e#235#290#0" expanded="false" />
-            <element signature="e#765#828#0" expanded="false" />
-            <element signature="e#1121#1150#0" expanded="false" />
-            <element signature="e#1272#1355#0" expanded="false" />
-            <element signature="e#1382#1600#0" expanded="false" />
-            <element signature="e#1627#1741#0" expanded="false" />
+            <element signature="e#510#567#0" expanded="false" />
+            <element signature="e#597#1009#0" expanded="false" />
+            <element signature="e#1051#1114#0" expanded="false" />
+            <element signature="e#1162#1393#0" expanded="false" />
+            <element signature="e#1422#1451#0" expanded="false" />
+            <element signature="e#1489#1553#0" expanded="false" />
+            <element signature="e#1576#1659#0" expanded="false" />
+            <element signature="e#1687#1918#0" expanded="false" />
+            <element signature="e#1946#2060#0" expanded="false" />
+            <element signature="e#2102#2601#0" expanded="false" />
+            <element signature="e#2636#2841#0" expanded="false" />
+            <element signature="e#2878#3258#0" expanded="false" />
+            <element signature="e#3296#3593#0" expanded="false" />
           </folding>
         </state>
       </provider>
