@@ -13,12 +13,10 @@ class Clasificador:
         k = tipo+'/imagen' + str(self.__name) + '.png'
         cv2.imwrite(k, self.__img)
 
-
     def dist(self,x, y):
         x1, y1 = x
         x2, y2 = y
         return np.sqrt(pow((x1 - x2), 2) + pow((y1 - y2), 2))
-
 
     def media(self):
         return np.mean(self.__dist_lista)
@@ -33,7 +31,6 @@ class Clasificador:
             print('la',self.__name,'está en telofase')
             return True
         return False
-
 
     def find_min(self):
         min_X=1000
@@ -119,7 +116,6 @@ class Clasificador:
 
         return lista_puntos, copia
 
-
     def excentricidad(self):
         centroide = self.find_centroid_cell()
         byw = cv2.imread('byw/imagen' + str(self.__name) + '.png')
@@ -134,24 +130,31 @@ class Clasificador:
         maximo=max(dis_centro)
         minimo=min(dis_centro)
         exce=minimo/maximo
-        print('nombre=',self.__name)
-        print('la excentricidad es',exce)
-        print('la varianza es=',var)
+        #print('nombre=',self.__name)
+        #print('la excentricidad es',exce)
+        #print('la varianza es=',var)
         bordes_img[centroide]=50
         #cv2.imshow('imagen',bordes_img)
         #cv2.waitKey(0)
         return exce,var
 
+
     def principal(self):
         sw=self.telofase()
         if(sw==False):
             exc,var=self.excentricidad()
-            if (exc<0.5):
+            if (exc>0.35 and exc<0.5):
                 print('la ',self.__name,'esta en anafase')
                 self.guardar_imagen('anafase')
 
+            elif(exc>=0.5 and exc<0.65):
+                print('la ',self.__name,'esta en metafase')
+                self.guardar_imagen('metafase')
 
+            elif(exc>=0.65):
+                print('la ',self.__name,'esta en profase')
+                self.guardar_imagen('profase')
 
-
-
-
+            else:
+                print('la ',self.__name,'no pudo ser identificada')
+                self.guardar_imagen('sin_clasificar')

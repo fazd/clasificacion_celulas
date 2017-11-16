@@ -13,7 +13,7 @@ def guardar_imagen(img, cont):
     cv2.imwrite(k, img)
 
 def cargar_imagenes():
-    mypath = 'test3'
+    mypath = 'test2'
     nombres = []
     onlyfiles = [f for f in listdir(mypath) if isfile(join(mypath, f))]
     images = np.empty(len(onlyfiles), dtype=object)
@@ -107,7 +107,7 @@ def principal(image,nombre):
         classifier.principal()
         return (med,var)
     else:
-        print('name=',nombre,'princ no entro')
+        #print('name=',nombre,'princ no entro')
         return (-1,-1)
 
 
